@@ -3,4 +3,4 @@ In this Repo, I will try to implement python codes which will help in data handl
 
 # Important Note:
 
-Please read before using the codes
+Please read the description before using the codes.
