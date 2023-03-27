@@ -1,3 +1,4 @@
-Data Validation
+# Data Validation
 
-This Project is used to validate the data once it was moved from Teradata to ADLS system
+# Introduction
+Data Validation is the process of verifying the data which is moved or copied from one place to another.
