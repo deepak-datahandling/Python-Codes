@@ -26,10 +26,10 @@ For example,
 4.Azure Databricks --> To perform Table Data Validation once, Archival is done.
 
 # Concepts used in Table Data Validation Code
-1.Cursor method in python.
-2.Pandas dataframe
-3.Collections and Loops in python
-4.Pyspark 
+* Cursor method in python.
+* Pandas dataframe
+* Collections and Loops in python
+* Pyspark 
 
 # Key Points to Remember
 1. I developed this code in Azure Databricks Environment, So you need to give the database credentials on the required fields in starting itself.Also, You can see I used dbutils to automate the process in ADF and if you don't want, you can ignore and manually assign the credentials.
