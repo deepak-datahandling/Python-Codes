@@ -1,7 +1,7 @@
 # Table Data Validation
 
 ## Requirement
-  As a Business User I want to Archive my old Teradata tables which is having huge records into Azure Data Lake Storage, which is not currently active. Also, I wants to do table data validation on the Archived data.
+  As a Business User I want to Archive my old Teradata tables which is having huge records and not active now, into Azure Data Lake Storage. Also, I wants to do table data validation on the Archived data.
   
 ## Key Points to Remember
 1. I developed this code in Azure Databricks Environment, So you need to give the database credentials on the required fields in starting itself.Also, You can see I used dbutils to automate the process in ADF and if you don't want, you can ignore and manually assign the credentials.
